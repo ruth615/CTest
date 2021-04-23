@@ -1,0 +1,4 @@
+﻿  Matrix.cpp
+c:\users\user\documents\program\matrix\matrix\matrix.cpp(19): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+c:\users\user\documents\program\matrix\matrix\matrix.cpp(126): warning C4018: '<=': signed/unsigned 不相符
+  Matrix.vcxproj -> C:\Users\user\Documents\Program\Matrix\Debug\Matrix.exe

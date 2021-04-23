@@ -1,0 +1,2 @@
+﻿  Matrix.cpp
+c:\users\user\documents\program\matrix\matrix\matrix.cpp(6): fatal error C1083: 無法開啟先行編譯標頭檔檔案: 'Debug\Matrix.pch': No such file or directory
